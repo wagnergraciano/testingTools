@@ -1,3 +1,7 @@
+# another but old simple dashboard example:
+[Youtube](https://www.youtube.com/watch?v=FP7Hs8lTy1k)
+[Github](https://github.com/bloodymind/angular-material-dashboard)
+
 # [Material Dashboard Angular - Free Bootstrap Material Design Admin](https://www.creative-tim.com/product/material-dashboard-angular2)[![version][version-badge]][CHANGELOG]
 
 ![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-dashboard-angular/material-dashboard-angular.gif)
